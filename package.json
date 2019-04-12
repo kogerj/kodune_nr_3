@@ -1,0 +1,19 @@
+{
+  "name": "kodune_nr_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogerj/kodune_nr_3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kogerj/kodune_nr_3/issues"
+  },
+  "homepage": "https://github.com/kogerj/kodune_nr_3#readme"
+}
